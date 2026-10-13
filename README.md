@@ -1,4 +1,4 @@
-# simple-interest-calculator
+# github-final-project
 
 Bu loyiha oddiy foizni (simple interest) hisoblaydi.
 
